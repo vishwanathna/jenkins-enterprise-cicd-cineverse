@@ -1,2 +1,3 @@
 # jenkins-enterprise-cicd-cineverse
-Enterprise CI/CD pipeline using Jenkins, Maven, SonarQube, Nexus, AWS S3 and Apache Tomcat.
+Enterprise CI/CD pipeline using Jenkins, Maven, SonarQube, Nexus, AWS S3 and Apache Tomcat. 
+jenkins full project
