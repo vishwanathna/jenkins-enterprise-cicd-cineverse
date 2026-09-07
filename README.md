@@ -5,4 +5,5 @@ Jenkins<br>
 Maven<br>
 SonarQube<br>
 Nexus<br>
+AWS S3 <br>
 
