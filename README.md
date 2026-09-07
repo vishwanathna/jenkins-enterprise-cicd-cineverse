@@ -4,4 +4,5 @@ Jenkins full Project <br>
 Jenkins<br>
 Maven<br>
 SonarQube<br>
+Nexus<br>
 
