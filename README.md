@@ -3,4 +3,5 @@ Enterprise CI/CD pipeline using Jenkins, Maven, SonarQube, Nexus, AWS S3 and Apa
 Jenkins full Project <br>
 Jenkins<br>
 Maven<br>
+SonarQube<br>
 
