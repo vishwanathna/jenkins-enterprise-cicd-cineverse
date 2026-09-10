@@ -4,7 +4,7 @@ Jenkins full Project <br>
 1. Git-Github<br>
 2. Jenkins<br>
 3. Maven<br>
-SonarQube<br>
+4. SonarQube<br>
 Nexus<br>
 AWS S3 <br>
 Tomcat <br>
