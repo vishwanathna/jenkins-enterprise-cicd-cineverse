@@ -6,5 +6,5 @@ Jenkins full Project <br>
 3. Maven<br>
 4. SonarQube<br>
 5. Nexus<br>
-6. AWS S3 <br>
+ AWS S3 <br>
  Tomcat <br>
