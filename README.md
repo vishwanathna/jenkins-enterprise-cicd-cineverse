@@ -20,7 +20,7 @@
 
 This project demonstrates the implementation of an **enterprise-style CI/CD pipeline** for a Java web application called **CineVerse**.
 
-The pipeline automates the application delivery process from **source code checkout to application deployment** on Apache Tomcat.
+The pipeline automates the application delivery process from **source code checkout to application deployment** on Apache Tomcat..
 
 The project integrates multiple DevOps tools to automate:
 
